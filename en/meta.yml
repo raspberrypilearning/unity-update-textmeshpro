@@ -1,11 +1,9 @@
-title: unity-update-textmeshpro
+title: Update the text in a TextMeshPro GameObject
 hero_image: images/banner.png
-description: unity-update-textmeshpro description
+description: Update the text in a TextMeshPro GameObject
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-18"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Update the text in a TextMeshPro GameObject
