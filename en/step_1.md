@@ -12,7 +12,7 @@ public class TextUpdater: MonoBehaviour
 {
   public TMP_Text messageText;
 
-  void Update() // or other method
+  void Update() // Or other method
   {
     messageText.SetText("New message");
   }
@@ -20,5 +20,5 @@ public class TextUpdater: MonoBehaviour
 --- /code ---
 
 
-Drag the TextMeshPro GameObject that you want to update from the Hierarchy to the corresponding script property in the Inspector. 
+Drag the TextMeshPro GameObject that you want to update from the Hierarchy window to the corresponding script property in the Inspector. 
 
