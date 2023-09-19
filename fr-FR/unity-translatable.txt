@@ -1,4 +1,4 @@
-TextUpdater
+MiseajourTexte
 
-messageText
+messageTexte
 
