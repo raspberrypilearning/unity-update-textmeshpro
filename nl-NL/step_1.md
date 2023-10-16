@@ -1,6 +1,6 @@
-You can use the `SetText` method to update the text that is displayed by a TextMeshPro GameObject.
+Je kunt de methode `SetText` gebruiken om de tekst bij te werken die wordt weergegeven door een TextMeshPro Gameobject.
 
-Either add a new script or update an existing one with a variable to store the TextMeshPro object and use `SetText` to change the text. You will need to add `using TMPro` to your script.
+Voeg een nieuw script toe of werk een bestaand script bij met een variabele om het TextMeshPro-object op te slaan en gebruik `SetText` om de tekst te wijzigen. Je moet `using TMPro` aan je script toevoegen.
 
 --- code ---
 ---
@@ -18,5 +18,5 @@ public class TextUpdater: MonoBehaviour
 } --- /code ---
 
 
-Drag the TextMeshPro GameObject that you want to update from the Hierarchy window to the corresponding script property in the Inspector. 
+Sleep het TextMeshPro GameObject dat je wilt bijwerken van het Hierarchy venster naar de bijbehorende scripteigenschap in de Inspector. 
 
